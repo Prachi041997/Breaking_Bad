@@ -1,0 +1,36 @@
+.listitem_container{
+    width: 23%;
+    height: 27%;
+    /* background-color: lightblue; */
+    margin-right: 22px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.listitem_image_container{
+    width: 47%;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 5px 5px 14px rgba(0,0,0,0.2) ;
+    padding: 3px;
+    
+}
+.listitem_details{
+    width: 45%;
+    height: 100%;
+    padding-top: 20px;
+    /* background-color: aqua; */
+}
+.listitem_details h4{
+    color: #51b876;
+}
+.listitem_details h6{
+    color: #555;
+    font-size: 12px;
+}
+.listitem_btnwrapper{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}

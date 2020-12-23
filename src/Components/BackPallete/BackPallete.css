@@ -1,0 +1,8 @@
+.backPallete_container{
+    width: 55%;
+    height: 70%;
+    background-color: #eeeeee;
+    position: absolute;
+    top:3%;
+    left:10%;
+}

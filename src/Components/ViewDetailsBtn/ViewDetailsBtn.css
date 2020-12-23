@@ -1,0 +1,19 @@
+.viewdetailsbtn_div{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid #45ab6a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.viewdetailsbtn_div i {
+   font-size: 10px;
+   color: #45ab6a;
+}
+.viewdetailsbtn_p{
+    font-size: 11px;
+    margin: 0;
+    color: #555;
+    margin-left: 10px;
+}

@@ -1,0 +1,21 @@
+.nextpagebtn_div{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid #45ab6a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.nextpagebtn_div i {
+   font-size: 10px;
+   color: #45ab6a;
+}
+.nextpagebtn_p{
+    font-size: 14px;
+    margin: 0;
+    color: #444;
+    margin-left: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.head_h1{
+    color: #45ab6a;
+    font-weight: 400;
+    font-size: 35px;
+}
+.head_h1 span{
+    color: #5a5a5a;
+    letter-spacing: .5px;
+    word-spacing: 1px;
+}

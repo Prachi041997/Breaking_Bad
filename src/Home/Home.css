@@ -1,0 +1,32 @@
+*{
+    font-family:'Product Sans';
+    
+}
+a {
+    text-decoration: none !important;
+}
+.body_container{
+    width: 100%;
+    min-height: 85vh;
+    position: relative;
+    padding-top: 30px;
+    padding-left: 125px;
+    /* background-color: red; */
+}
+.list {
+    width: 40%;
+    height: 60px;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+}
+.list img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.list h6 {
+    margin: 0;
+    font-weight: 500;
+}

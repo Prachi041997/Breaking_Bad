@@ -1,0 +1,1 @@
+export const BaseURL = 'https://www.breakingbadapi.com/api';
